@@ -1,0 +1,24 @@
+{
+  "name": "projetoaula",
+  "version": "1.0.0",
+  "description": "Projeto da Aula de Tecnicas de Programacao ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1441-Daniel/ProjetoAula.git"
+  },
+  "keywords": [
+    "aula",
+    "node",
+    "npm"
+  ],
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1441-Daniel/ProjetoAula/issues"
+  },
+  "homepage": "https://github.com/1441-Daniel/ProjetoAula#readme"
+}
